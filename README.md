@@ -2,7 +2,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>🔧Remote Desktop</b>
-  - [Remote Desktop: Overview and Use](https://github.com/thomasjsaubert/azure-network-protocols)
+  - [Remote Desktop: Overview and Use](https://github.com/thomasjsaubert/Remote-Desktop)
 - <b>🛠️osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/thomasjsaubert/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/thomasjsaubert/post-install-config)
