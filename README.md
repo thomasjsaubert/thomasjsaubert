@@ -9,7 +9,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thomasjsaubert/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thomasjsaubert/azure-network-protocols)
 - <b>🔧Remote Desktop</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thomasjsaubert/azure-network-protocols)
+  - [Remote Desktop: Overview and Use](https://github.com/thomasjsaubert/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
