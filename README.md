@@ -1,8 +1,9 @@
 <h1>Hi, I'm Thomas, an <a href="https://linkedin.com/in/thomas-saubert">IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>🔧Remote Desktop</b>
-  - [Remote Desktop: Overview and Use](https://github.com/thomasjsaubert/Remote-Desktop)
+- <b>🔧Tools I used</b>
+  - [Remote Desktop](https://github.com/thomasjsaubert/Remote-Desktop)
+  - [PowerShell](https://github.com/thomasjsaubert/PowerShell)
 - <b>🛠️osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/thomasjsaubert/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/thomasjsaubert/post-install-config)
