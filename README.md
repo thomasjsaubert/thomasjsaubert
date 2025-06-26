@@ -4,13 +4,13 @@
 - <b>🔧Tools I used</b>
   - [Remote Desktop](https://github.com/thomasjsaubert/Remote-Desktop)
   - [PowerShell](https://github.com/thomasjsaubert/PowerShell)
+- <b>🖥️Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thomasjsaubert/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thomasjsaubert/azure-network-protocols)
 - <b>🛠️osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/thomasjsaubert/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/thomasjsaubert/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/thomasjsaubert/ticket-lifecycle)
-- <b>🖥️Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thomasjsaubert/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thomasjsaubert/azure-network-protocols)
 
 
 <h2>🤳Connect with me:</h2>
