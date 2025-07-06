@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Thomas — [Aspiring IT Professional](https://linkedin.com/in/thomas-saubert)
-
-Welcome to my GitHub portfolio! I'm currently transitioning into the IT field with a focus on system administration, cloud technologies, and technical support. Below are hands-on projects I've built to reinforce my learning and showcase my skills.
+# 👋 Hi, I'm Thomas — [IT Professional](https://linkedin.com/in/thomas-saubert)
 
 ---
 
