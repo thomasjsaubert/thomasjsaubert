@@ -13,7 +13,7 @@
 
 - [Creating a Virtual Machine (Windows and Linux) using Azure](https://github.com/thomasjsaubert/Creating-VM-s)
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thomasjsaubert/configure-ad)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thomasjsaubert/azure-network-protocols)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/thomasjsaubert/network-protocols)
 
 ---
 
